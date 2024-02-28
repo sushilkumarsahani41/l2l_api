@@ -1,0 +1,10 @@
+{
+    "production": {
+        "aws_region": "ap-south-1",
+        "django_settings": "api.settings",
+        "profile_name": "default",
+        "project_name": "api",
+        "runtime": "python3.10",
+        "s3_bucket": "zappa-m7my8e6g1"
+    }
+}
